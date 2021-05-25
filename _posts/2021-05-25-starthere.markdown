@@ -39,5 +39,8 @@ If you have a question that isn’t in this letter, submit that to the form here
 ### I don't understand some of the terms used here
 Please have a look at our jargon buster and see if that anwsers your question, if not please submit that to the form here (link not ready yet) <br>
 
+### How much will this cost me?
+Currently, Openreach has given me a ballpark price of £467.42 per premise although if enough people do sign up to this project, this can be entriely funded by the government voucher scheme. <br>
+
 ### Where do I sign up?
 Click here (link not ready yet)
