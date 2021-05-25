@@ -17,6 +17,9 @@ The Gatehead Bank Broadband Project aims to bring ultrafast fibre optic cables s
 ## What are the benefits?
 * Faster download speed: approximately 30 mbps Vs up to 1000 mbps
 * Property value will increase. According to Zen, Brits are willing to pay £1500 more for a house with full fibre broadband.[^1]
+* Increased reliability - less downtime. Fibre Optic cables are less susceptible to interferance. 
+* More devices are able to connect and use the network simultaneously thanks to the increased bandwith. 
+* Future proof your connection - Fibre to the premises is still not fully rolled out, even in suburban areas. This will allow us to have world class broadband which is currently rare in rural areas. 
 
 
 
