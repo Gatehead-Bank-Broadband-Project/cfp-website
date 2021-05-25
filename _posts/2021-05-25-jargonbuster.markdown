@@ -20,7 +20,8 @@ Ultrafast broadband – This is defined as a download speed of excess of 100mbps
 
 Gigabit-capable broadband – This is broadband that can provide connection speeds of 1000mbps. <br>
 
-Fibre broadband – This is broadband that is at least mostly made of fibre optic cables, full-fibre broadband is where all of the connection uses fibre optics.
+Fibre broadband – This is broadband that is at least mostly made of fibre optic cables, full-fibre broadband is where all of the connection uses fibre optics. <br>
+
 VDSL – Very high bitrate Digital Subscriber Line – This is often how the FTTC connection reaches your house, this uses high-frequency signals sent down a copper telephone cable. This technology allows for speeds up to 80mbps download and 20mbps upload though speeds decrease with the length of the cable. <br>
 
 ASA – Advertising Standards Authority – the advertising regulator in the UK. <br>
