@@ -8,7 +8,7 @@ description: If you're new, please read this first
 ![under construction](http://www.animatedgif.net/underconstruction/5consbar2_e0.gif) <br>
 ## This page is under construction!
 
-If you have recived a letter through the door then congratulation, your home/business has been selected to be part of this broadband project. <br>
+If you have recived a letter through the door then congratulation, your home/business has been selected to be part of this broadband project but we need your help. <br>
 Below is infomation on the project and how we're going to archive this.
 
 ## What is this project?
