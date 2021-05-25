@@ -5,7 +5,7 @@
 layout: home
 ---
 ![under construction](http://www.animatedgif.net/underconstruction/5consbar2_e0.gif) <br>
-## This site is under construction, some parts may be broken or incomplete
+## This site is under construction, some parts ~~may~~ will be broken or incomplete
 
 Welcome! If you're on this site, you're probably interested in signing up to this project, in that case click here (link not ready yet). If you want to find out more about what this project aims to do and what you can do to help, please read the posts below.
 
