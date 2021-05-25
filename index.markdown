@@ -9,4 +9,6 @@ layout: home
 
 Welcome! If you're on this site, you're probably interested in signing up to this project, in that case click here (link not ready yet). If you want to find out more about what this project aims to do and what you can do to help, please read the posts below.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1BSnFlhzaZdDQFk7q5WICiFYtUMjdEt1s" width="640" height="480"></iframe>
+
 If you have a question that isn't anwsered in the posts, please submit your question [here](https://forms.office.com/r/aHCuBpgdgB) and I'll try to respond as soon as possible.
