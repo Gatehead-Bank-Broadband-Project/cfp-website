@@ -23,7 +23,7 @@ email: gateheadbankbroadbandproject@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aiming to create faster broadband for Gatehead Bank and the surrounding area.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gatehead-bank-broadband-project.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ghbbp.digital/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
