@@ -11,4 +11,7 @@ Welcome! If you're on this site, you're probably interested in signing up to thi
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1BSnFlhzaZdDQFk7q5WICiFYtUMjdEt1s" width="640" height="480"></iframe>
 
+###### Approximate coverage area, this may not be completely accurate
+
+
 If you have a question that isn't anwsered in the posts, please submit your question [here](https://forms.office.com/r/aHCuBpgdgB) and I'll try to respond as soon as possible.
