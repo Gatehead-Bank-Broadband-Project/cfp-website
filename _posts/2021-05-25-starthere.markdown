@@ -13,3 +13,31 @@ Below is infomation on the project and how we're going to archive this.
 
 ## What is this project?
 The Gatehead Bank Broadband Project aims to bring ultrafast fibre optic cables straight into your home and thereby improving your connection speed and reliabilty. This project is currently in partnership with [Openreach](https://www.openreach.com/fibre-broadband/community-fibre-partnerships/) and aims to use the government's [rural gigabit broadband scheme to help fund it](https://gigabitvoucher.culture.gov.uk/).
+
+
+
+
+## BLANK SECTION
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## FAQ
+### Don’t I already have fibre broadband?
+Not really, our connection is an FTTC connection which stands for Fibre to the Cabinet which means that it’s fibre to a green box that’s near Burnlee Garage and it’s a copper telephone cable to your home. According to a ruling by the ASA in 2008, this is considered “fibre broadband” even though the cable coming into your house is made of copper and not fibre.  The upgrade to FTTP (Fibre to the Premises) as the name suggests, brings the fibre connection directly to your home and will allow for connections of up to 1000mbps compared to speeds of around 30mbps that we are currently getting over the copper lines. <br>
+
+### Will full-fibre/FTTP improve my internet reliability?
+In most cases yes, this is because fibre optic cables are less susceptible to interference from the outside. For example, all DSL (i.e. ADSL, FTTC/VDSL) based connections are vulnerable to Repetitive Electrical Impulse Noise (REIN) and Single Isolated Impulse Noise (SHINE), this noise can be caused by anything from roadworks to central heating timers.  SHINE and REIN can cause stability and performance issues for DSL and FTTC with the excess noise causing errors on your line and even disconnections. FTTP resolves this problem because it’s just light sent down tubes rather than high-frequency sound. FTTP can’t solve problems regarding your home’s internal network, such as poor Wi-Fi signals, but it will improve the reliability of your connection to the outside world. <br>
+
+### But what about wireless technologies like 5G?
+While 5G is quite an impressive technology, the record-breaking speeds use millimetre wave frequencies, these can be blocked by anything from trees to the human body. In reality, the speeds you will be getting from 5G will be much slower than the headlines. 5G towers also need a full-fibre connection to the rest of the internet. Full fibre connections are also future proof as the cables themselves can carry (in theory) an infinite amount of bandwidth with only the receiver and the transmitters need an upgrade to get these faster speeds in the future. <br>
+
+### Can I keep my ISP?
+Most likely yes, Openreach maintains a list of ISPs that support FTTP which you can find at [here](https://www.openreach.com/fibre-broadband/fttp-providers) <br>
+
+### I have a question that isn’t in on this site
+If you have a question that isn’t in this letter, submit that to the form here (link not ready yet) and I’ll try to answer it as best as I can. <br>
+
+### I don't understand some of the terms used here
+Please have a look at our jargon buster and see if that anwsers your question, if not please submit that to the form here (link not ready yet) <br>
+
+### Where do I sign up?
+Click here (link not ready yet)
