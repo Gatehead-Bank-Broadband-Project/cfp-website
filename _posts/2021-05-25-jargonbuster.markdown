@@ -5,6 +5,8 @@ date:   2021-05-25
 categories: broadband
 description: Helping to explain what broadband terms mean
 ---
+This page is meant to help you to understand some of the terms used on this site and in the industry with easy to understand definitions. <br>
+
 ADSL – This is sometimes called “standard broadband” with speeds of up to 24mbps download and 1mbps upload though speeds decrease with the length of the cable. ADSL is a full copper standard which means that between you can the telephone exchange, there are no fibre cables. <br>
 
 FTTC – Fibre to the Cabinet, this means that a fibre cable is laid to a cabinet at the roadside and it’s a copper telephone cable to your home.
