@@ -21,4 +21,7 @@ The Gatehead Bank Broadband Project aims to bring ultrafast fibre optic cables s
 * More devices are able to connect and use the network simultaneously thanks to the increased bandwith. 
 * Future proof your connection - Fibre to the premises is still not fully rolled out, even in suburban areas. This will allow us to have world class broadband which is currently rare in rural areas. 
 
+## How can I help?
+You can sign the pledge [here](https://ghbbp.digital/signup/) to help.
+
 [^1]: https://www.zen.co.uk/blog/posts/zen-blog/2021/04/20/brits-would-pay-extra-for-a-home-with-full-fibre-broadband
