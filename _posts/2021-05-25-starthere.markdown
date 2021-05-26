@@ -24,8 +24,10 @@ The Gatehead Bank Broadband Project aims to bring ultrafast fibre optic cables s
 ## How can I help?
 You can sign the pledge [here](https://ghbbp.digital/signup/) to help.
 
+## I have some questions
+If you have some questions, please consult the [FAQ here](https://ghbbp.digital/FAQ/).
 
+<br>
+<br>
 
-
-
-[^1]: https://www.zen.co.uk/blog/posts/zen-blog/2021/04/20/brits-would-pay-extra-for-a-home-with-full-fibre-broadband
+[^1]: [https://www.zen.co.uk/blog/posts/zen-blog/2021/04/20/brits-would-pay-extra-for-a-home-with-full-fibre-broadband](https://www.zen.co.uk/blog/posts/zen-blog/2021/04/20/brits-would-pay-extra-for-a-home-with-full-fibre-broadband)
