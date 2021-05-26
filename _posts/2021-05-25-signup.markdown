@@ -7,4 +7,6 @@ description: Use this page to sign up to this project
 ---
 To sign up to the project please use this form, there are no commitments at this moment in time and if enough people sign up to this project, there will be no expensive installation cost for you!
 
-Click here for the form.
+Click [here](https://forms.office.com/r/06dgNxJprm) for the form.
+
+By entering your infomation, you agree to join this Community Fibre Partnership and that your infomation may be passed on to Openreach. I may also contact you from time to time to inform you about upcoming developments or to ask questions. You can withdraw at anytime during this stage by sending an email to [gateheadbankbroadbandproject@protonmail.com](mailto:gateheadbankbroadbandproject@protonmail.com)
