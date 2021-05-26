@@ -6,7 +6,7 @@ categories: broadband
 description: FAQ section
 ---
 ### Don’t I already have fibre broadband?
-Not really, our connection is an FTTC connection which stands for Fibre to the Cabinet which means that it’s fibre to a green box that’s near Burnlee Garage and it’s a copper telephone cable to your home. According to a ruling by the ASA in 2008, this is considered “fibre broadband” even though the cable coming into your house is made of copper and not fibre.  The upgrade to FTTP (Fibre to the Premises) as the name suggests, brings the fibre connection directly to your home and will allow for connections of up to 1000mbps compared to speeds of around 30mbps that we are currently getting over the copper lines. <br>
+Not really, our connection is an FTTC connection which stands for Fibre to the Cabinet which means that it’s fibre to a green box that’s near Burnlee Garage and it’s a copper telephone cable to your home. According to a ruling by the ASA in 2008, this is considered “fibre broadband” even though the cable coming into your house is made of copper and not fibre.[^1]  The upgrade to FTTP (Fibre to the Premises) as the name suggests, brings the fibre connection directly to your home and will allow for connections of up to 1000mbps compared to speeds of around 30mbps that we are currently getting over the copper lines. <br>
 
 ### Will full-fibre/FTTP improve my internet reliability?
 In most cases yes, this is because fibre optic cables are less susceptible to interference from the outside. For example, all DSL (i.e. ADSL, FTTC/VDSL) based connections are vulnerable to Repetitive Electrical Impulse Noise (REIN) and Single Isolated Impulse Noise (SHINE), this noise can be caused by anything from roadworks to central heating timers.  SHINE and REIN can cause stability and performance issues for DSL and FTTC with the excess noise causing errors on your line and even disconnections. FTTP resolves this problem because it’s just light sent down tubes rather than high-frequency sound. FTTP can’t solve problems regarding your home’s internal network, such as poor Wi-Fi signals, but it will improve the reliability of your connection to the outside world. <br>
@@ -28,3 +28,8 @@ Currently, Openreach has given me a ballpark price of £467.42 per premise altho
 
 ### Where do I sign up?
 Click [here](https://ghbbp.digital/signup/)
+<br>
+<br>
+<br>
+
+[^1]: [https://web.archive.org/web/20090925125248/http://www.asa.org.uk:80/asa/adjudications/Public/TF_ADJ_43928.htm](https://web.archive.org/web/20090925125248/http://www.asa.org.uk:80/asa/adjudications/Public/TF_ADJ_43928.htm) (Archived ASA ruling)
