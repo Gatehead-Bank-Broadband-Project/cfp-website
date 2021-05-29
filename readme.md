@@ -1,3 +1,3 @@
-# CFP site
+# Gatehead Bank Broadband Project
 
-Website coming soon!
+Website active! You can visit it [here](https://ghbbp.digital/)
