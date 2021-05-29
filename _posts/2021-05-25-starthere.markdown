@@ -10,7 +10,7 @@ If you have been contacted by me or received a flyer then congratulations, your 
 Below is infomation on the project and how we're going to achieve this.
 
 ## What is this project?
-The Gatehead Bank Broadband Project aims to bring ultrafast fibre optic cables straight into your home and thereby improving your connection speed and reliabilty. This project is currently in partnership with [Openreach](https://www.openreach.com/fibre-broadband/community-fibre-partnerships/) and aims to use the government's [rural gigabit broadband scheme to help fund it](https://gigabitvoucher.culture.gov.uk/). 
+The Gatehead Bank Broadband Project aims to bring ultrafast fibre optic cables straight into your home and thereby improving your connection speed and reliabilty. This project is currently in partnership with [Openreach](https://www.openreach.com/fibre-broadband/community-fibre-partnerships/) and aims to use the government's [rural gigabit broadband voucher scheme to help fund it](https://gigabitvoucher.culture.gov.uk/). 
 
 ## What are the benefits?
 * Faster download speed: approximately 30 mbps Vs up to 1000 mbps[^1]
