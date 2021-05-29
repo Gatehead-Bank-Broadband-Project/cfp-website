@@ -6,7 +6,7 @@ categories: broadband
 description: If you're new, please read this first
 ---
 
-If you have been contacted by me then congratulations, your home/business has been selected to be part of this broadband project but we need your help. <br>
+If you have been contacted by me or received a flyer then congratulations, your home/business has been selected to be part of this broadband project but we need your help. <br>
 Below is infomation on the project and how we're going to achieve this.
 
 ## What is this project?
