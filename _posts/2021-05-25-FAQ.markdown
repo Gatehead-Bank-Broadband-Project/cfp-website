@@ -21,16 +21,16 @@ Most likely yes, Openreach maintains a list of ISPs that support FTTP which you 
 You can check the price of FTTP by using the postcode of MK182HY on your ISP package selector.
 
 ### I have a question that isn’t in on this site
-If you have a question that isn’t in this letter, submit that to the form [here](https://forms.office.com/r/aHCuBpgdgB) and I’ll try to answer it as best as I can. <br>
+If you have a question that isn’t in this site, submit that to the form [here](https://forms.office.com/r/aHCuBpgdgB) and I’ll try to answer it as best as I can. <br>
 
 ### I don't understand some of the terms used here
 Please have a look at our [jargon buster](https://ghbbp.digital/jargonbuster/) and see if that anwsers your question, if not please submit that to the form [here](https://forms.office.com/r/aHCuBpgdgB) <br>
 
 ### How much will this cost me?
-Currently, Openreach has given me a ballpark price of £467.42 per premise although if enough people do sign up to this project, this can be entriely funded by the government voucher scheme. <br>
+Currently, Openreach has given me a ballpark price of £22,436 for all the premises covered by the project which comes out to £467.42 per premise although if enough people do sign up to this project, this can be entriely funded by the government voucher scheme. <br>
 
 ### Where do I sign up?
-Click [here](https://ghbbp.digital/signup/)
+[Click here](https://ghbbp.digital/signup/)
 <br>
 <br>
 <br>
