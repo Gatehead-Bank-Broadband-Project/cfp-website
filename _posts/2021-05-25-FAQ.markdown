@@ -17,6 +17,9 @@ While 5G is quite an impressive technology, the record-breaking speeds use milli
 ### Can I keep my ISP?
 Most likely yes, Openreach maintains a list of ISPs that support FTTP which you can find at [here](https://www.openreach.com/fibre-broadband/fttp-providers) <br>
 
+### How much does FTTP cost compared to my existing connection?
+You can check the price of FTTP by using the postcode of MK182HY on your ISP package selector.
+
 ### I have a question that isn’t in on this site
 If you have a question that isn’t in this site, submit that to the form [here](https://forms.office.com/r/aHCuBpgdgB) and I’ll try to answer it as best as I can. <br>
 
