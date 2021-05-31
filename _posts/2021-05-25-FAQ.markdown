@@ -5,6 +5,8 @@ date:   2021-05-25
 categories: broadband
 description: FAQ section
 ---
+{% include toc.md %}
+
 ### Don’t I already have fibre broadband?
 Not really, our connection is an FTTC connection which stands for Fibre to the Cabinet which means that it’s fibre to a green box that’s near Burnlee Garage and it’s a copper telephone cable to your home. According to a ruling by the ASA in 2008, this is considered “fibre broadband” even though the cable coming into your house is made of copper and not fibre.[^1]  The upgrade to FTTP (Fibre to the Premises) as the name suggests, brings the fibre connection directly to your home and will allow for connections of up to 1000mbps compared to speeds of around 30mbps that we are currently getting over the copper lines. <br>
 
