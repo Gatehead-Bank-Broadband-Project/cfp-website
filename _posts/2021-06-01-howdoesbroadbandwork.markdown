@@ -6,7 +6,7 @@ categories: broadband
 description: Explaining how broadband works
 ---
 How does broadband work?
-There seem to be many misconceptions about how the internet is delivered to your home. This post mainly focuses on Openreach fixed-line broadband which is the most common variant of broadband used in the UK and many other countries. Unless you explicitly get your internet from satellite or 3G/4G then you are most likely going to get your connection from a fixed-line connection. <br>
+There seem to be many misconceptions about how the internet is delivered to your home. This post mainly focuses on Openreach fixed-line broadband which is the most common variant of broadband used in the UK. Unless you explicitly get your internet from satellite or 3G/4G then you are most likely going to get your connection from a fixed-line connection. <br>
 {% include toc.md %}
 
 
