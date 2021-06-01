@@ -31,3 +31,6 @@ G.Fast is still DSL but is faster however, it has a length limit of 500m and has
 ## FTTP – A full-fibre future
 FTTP stands for Fibre To The Premise but is also known as FTTH (Fibre To The Home) or just Full Fibre. This brings fibre cables straight to your house which makes this a true fibre connection. Speeds on this network are up to 1Gbps in the UK and unlike DSL based solutions, the distances from the exchange or roadside cabinet don’t matter in this case as true fibre connections use light rather than high-frequency signals. If you want to know how this would look like, here’s a video that demonstrates what the system would look like.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1-6LKAPlEyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+To sign up to [click here](https://ghbbp.digital/signup/)
