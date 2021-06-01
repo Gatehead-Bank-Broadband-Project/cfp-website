@@ -18,7 +18,6 @@ ADSL stands for Asymmetric Digital Subscriber Line is one of the main standards 
 This is a diagram helps to explain how ADSL works. As you can see, ADSL is a purely copper system from the telephone exchange. 
 
 ## FTTC/VDSL – “fibre” broadband – what we have today
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DDp9-tSYpU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 FTTC stands for Fibre To The Cabinet which aimed to improve broadband speeds by bringing fibre optic cables closer to your home. In truth, FTTC is not true fibre broadband but instead is a hybrid system. <br>
 <br>
 ![VDSL]({{site.github.url}}/assets/img/VDSL.png)
