@@ -37,6 +37,9 @@ Currently, Openreach has given me a ballpark price of £22,436 for all the premi
 ### I have a question that isn’t in on this site
 If you have a question that isn’t in this site, submit that to the form below and I’ll try to answer it as best as I can. <br>
 <iframe width="730px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fWPBfFUNkVSSVZHNE9RRlIwTFUyOENPS1pFVkI1Ty4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+If you can't see the form, [click here](https://forms.office.com/r/aHCuBpgdgB)
+<br>
+<br>
 <br>
 
 [^1]: [https://web.archive.org/web/20090925125248/http://www.asa.org.uk:80/asa/adjudications/Public/TF_ADJ_43928.htm](https://web.archive.org/web/20090925125248/http://www.asa.org.uk:80/asa/adjudications/Public/TF_ADJ_43928.htm) (Archived ASA ruling)
