@@ -12,4 +12,4 @@ Welcome! If you're on this site, you're probably interested in signing up to thi
 ###### Approximate coverage area, this may not be completely accurate
 
 
-If you have a question that isn't anwsered in the posts, please submit your question [here](FAQ/#i-have-a-question-that-isnt-in-on-this-site) and I'll try to respond as soon as possible.
+If you have a question that isn't answered in the posts, please submit your question [here](FAQ/#i-have-a-question-that-isnt-in-on-this-site) and I'll try to respond as soon as possible.
