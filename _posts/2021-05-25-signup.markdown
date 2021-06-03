@@ -8,5 +8,7 @@ description: Use this page to sign up to this project
 To sign up to the project please use this form, there are no commitments at this moment in time and if more than 20 people sign up to this project, there will be no expensive installation cost for you!
 
 <iframe width="730px" height= "650px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fWPBfFUNlNMQVFDSlNBOE9WUElQTjZIRUE3Uk5RUi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+If you can't see the form, [click here](https://forms.office.com/r/06dgNxJprm)
 
+<br>
 By entering your infomation, you agree to join this Community Fibre Partnership and that your infomation may be passed on to Openreach. I may also contact you from time to time to inform you about upcoming developments or to ask questions. You can withdraw at anytime during this stage by sending an email to [gateheadbankbroadbandproject@protonmail.com](mailto:gateheadbankbroadbandproject@protonmail.com)
