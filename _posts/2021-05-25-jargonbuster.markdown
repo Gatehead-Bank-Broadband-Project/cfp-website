@@ -12,8 +12,10 @@ This page is meant to help you to understand some of the terms used on this site
 <br>
 
 **FTTC**
-: Fibre to the Cabinet, this means that a fibre cable is laid to a cabinet at the roadside and it’s a copper telephone cable to your home.
-Superfast broadband – This is defined as a download speed of 24 or 30mbps download to 99mbps.<br>
+: Fibre to the Cabinet, this means that a fibre cable is laid to a cabinet at the roadside and it’s a copper telephone cable to your home.<br>
+<br>
+**Superfast broadband** 
+: This is defined as a download speed of 24 or 30mbps download to 99mbps.<br>
 <br>
 
 **Mbps**
