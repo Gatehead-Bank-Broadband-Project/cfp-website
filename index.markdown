@@ -4,7 +4,7 @@
 title: Home
 layout: home
 ---
-## This project is considered to be abandoned due to news of a different commerical provider moving into the area. This page has therefore been archived
+## This project is considered to be abandoned due to news of [WeFibre](https://wefibre.com/) moving into the area. This page has therefore been archived.
 
 Welcome! If you're on this site, you're probably interested in signing up to this project, in that case [click here](https://ghbbp.digital/signup/). If you want to find out more about what this project aims to do and what you can do to help, please read the posts below.
 
