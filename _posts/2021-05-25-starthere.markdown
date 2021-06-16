@@ -5,7 +5,7 @@ date:   2021-05-25
 categories: broadband
 description: If you're new, please read this first
 ---
-## This project is considered to be abandoned due to news of a different commerical provider moving into the area. This page has therefore been archived.
+## This project is considered to be abandoned due to news of [WeFibre](https://wefibre.com/) moving into the area. This page has therefore been archived.
 
 If you have been contacted by me or received a flyer then congratulations, your home/business has been selected to be part of this broadband project but we need your help. <br>
 Below is infomation on the project and how we're going to achieve this.
