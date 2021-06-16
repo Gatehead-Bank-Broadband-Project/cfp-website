@@ -5,6 +5,8 @@ date:   2021-05-25
 categories: broadband
 description: Use this page to sign up to this project
 ---
+## This project is considered to be abandoned due to news of [WeFibre](https://wefibre.com/) moving into the area. This page has therefore been archived.
+
 To sign up to the project please use this form, there are no commitments at this moment in time and if more than 20 people sign up to this project, there will be no expensive installation cost for you! <br>
 
 Please note that only one person/company from your premises can sign up for this project. If you have a registered SME at your address, please register as the business as [business vouchers are worth more than residential vouchers.](https://gigabitvoucher.culture.gov.uk/)
