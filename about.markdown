@@ -11,7 +11,3 @@ This project aims to bring world class broadband to Gatehead Bank and Boulder Ga
 
 
 
-## About me
-Hi, <br>
-I'm Hoi Kay and I'm a technology nerd and a fellow villager who lives on Gatehead Bank. The reason for starting this project is because I am becoming more frustrated by the broadband situation here and after hearing that my neighbours were having the same problems as well as seeing that we've been forgetten about in the current FTTP rollout, I have decided that enough is enough and started this project to help bring faster broadband here. <br>
-I also have a personal website which you can visit at [hoikay.li](https://hoikay.li)
