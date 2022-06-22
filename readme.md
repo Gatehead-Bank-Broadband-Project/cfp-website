@@ -3,5 +3,5 @@
 
 Website is now active! You can visit it ~~[here]~~
 
-The website is now archived at [archived-ghbbp.ml](archived-ghbbp.ml)
+The website is now archived at [archived-ghbbp.ml](https://archived-ghbbp.ml)
 
